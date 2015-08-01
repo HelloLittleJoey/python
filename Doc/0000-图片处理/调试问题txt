@@ -1,0 +1,4 @@
+下载这里的pillow，而不是例程中的版本
+https://pypi.python.org/pypi/Pillow/2.7.0
+
+运行如果出现 IOError: cannot open resource错误，并且提示中有字体打开的操作，例如 “Futura.ttf”字体，则需要自己到网上下载字体并安装
